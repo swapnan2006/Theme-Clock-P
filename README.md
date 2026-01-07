@@ -27,6 +27,7 @@
   </body>
 </html>
 
+//js
 
 const hourEl = document.querySelector('.hour')
 const minuteEl = document.querySelector('.minute')
@@ -78,7 +79,7 @@ setTime()
 setInterval(setTime, 1000)
 
 
-@import url('https://fonts.googleapis.com/css?family=Heebo:300&display=swap');
+//css
 
 * {
   box-sizing: border-box;
